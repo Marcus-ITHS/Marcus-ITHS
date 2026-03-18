@@ -36,6 +36,6 @@ A practical home lab environment built to simulate real-world attack scenarios &
 
 ## 📫 Let's Connect
 * **LinkedIn:** [Marcus Österlind](https://www.linkedin.com/in/marcusosterlind)
-* **Email:** marcusosterlind@gmail.com
+* **Email:** marcusosterlind [at] gmail [dot] com
 
 *“Understanding the mechanics of an attack is the first step in building a resilient defense.”*
